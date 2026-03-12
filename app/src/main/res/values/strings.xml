@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Campus Navigation Helper</string>
+    <string name="campus_navigation">Campus Navigation</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="register_link">Don\'t have account? Register here</string>
+    <string name="email_hint">Email</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="login_link">Already have account? Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="view_locations">View Campus Locations</string>
+    <string name="view_favorites">My Favorite Locations</string>
+    <string name="logout">Logout</string>
+    <string name="no_favorites">No favorites yet</string>
+    <string name="add_favorites_hint">Add favorites from locations list</string>
+</resources>
